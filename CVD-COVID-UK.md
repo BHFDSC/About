@@ -14,7 +14,7 @@ If you are interested in becoming a member of CVD-COVID-UK please email bhfdsc@h
 
 All code arising from this consortium’s work will be made publicly available via this github repository.
 
-All analysis plans, protocols and reports will be made publicly available via the CVD-COVID-UK [webpage](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/) and/or [HDR UK Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
+All analysis plans, protocols and reports will be made publicly available via the CVD-COVID-UK [webpage](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/) and/or the [HDR UK Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
 
 ## License
 
