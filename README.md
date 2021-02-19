@@ -10,7 +10,7 @@ We work with a wide range of partners including patients, public, clinicians, re
 
 All code arising from the BHF Data Science Centre's work will be made publicly available via this github repository.
 
-All analysis plans, protocols and reports will be made publicly available via our [website](https://www.hdruk.ac.uk/helping-with-health-data/bhf-data-science-centre/) and/or [HDR UK Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
+All analysis plans, protocols and reports will be made publicly available via our [website](https://www.hdruk.ac.uk/helping-with-health-data/bhf-data-science-centre/) and/or the [HDR UK Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
 
 Additional information on the data available for each of our projects can be found below.
 
