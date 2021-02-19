@@ -2,7 +2,7 @@
 
 ## Introduction
 
-CVD-COVID-UK, led by Professor Cathie Sudlow, Director of the British Heart Foundation (BHF) Data Science Centre, is one of the National Flagship Projects approved by the NIHR-BHF Cardiovascular Partnership.
+[CVD-COVID-UK](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/), led by Professor Cathie Sudlow, Director of the British Heart Foundation (BHF) Data Science Centre, is one of the National Flagship Projects approved by the NIHR-BHF Cardiovascular Partnership.
 
 It aims to understand the relationship between COVID-19 and cardiovascular diseases such as heart attack, heart failure, stroke, and blood clots in the lungs through analyses of de-identified, pseudonymised, linked, nationally collated healthcare datasets across the four nations of the UK.
 
@@ -14,7 +14,7 @@ If you are interested in becoming a member of CVD-COVID-UK please email bhfdsc@h
 
 All code arising from this consortium’s work will be made publicly available via this github repository.
 
-All analysis plans, protocols and reports arising from this consortium’s work will be made publicly available via the HDR UK website and/or HDR UK Gateway (linking to additional institutional documentation if appropriate), and through open access publications.
+All analysis plans, protocols and reports arising from this consortium’s work will be made publicly available via the CVD-COVID-UK [webpage](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/) and/or [HDR UK Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
 
 ## License
 
