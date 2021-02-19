@@ -6,7 +6,7 @@
 
 It aims to understand the relationship between COVID-19 and cardiovascular diseases such as heart attack, heart failure, stroke, and blood clots in the lungs through analyses of de-identified, pseudonymised, linked, nationally collated healthcare datasets across the four nations of the UK.
 
-CVD-COVID-UK is a collaboration of over 130 members across 40 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of principles with an inclusive, open and transparent ethos.
+CVD-COVID-UK is a collaboration of over 130 [members](https://www.hdruk.ac.uk/wp-content/uploads/2021/01/210128-CVD-COVID-UK-Consortium-Members.pdf) across 40 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of [principles](https://www.hdruk.ac.uk/wp-content/uploads/2020/07/CVD-COVID-UK-principles-for-website.pdf) with an inclusive, open and transparent ethos.
 
 If you are interested in becoming a member of CVD-COVID-UK please email bhfdsc@hdruk.ac.uk
 
@@ -14,7 +14,7 @@ If you are interested in becoming a member of CVD-COVID-UK please email bhfdsc@h
 
 All code arising from this consortium’s work will be made publicly available via this github repository.
 
-All analysis plans, protocols and reports arising from this consortium’s work will be made publicly available via the CVD-COVID-UK [webpage](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/) and/or [HDR UK Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
+All analysis plans, protocols and reports will be made publicly available via the CVD-COVID-UK [webpage](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/) and/or [HDR UK Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
 
 ## License
 
