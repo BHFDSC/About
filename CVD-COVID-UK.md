@@ -10,7 +10,7 @@ CVD-COVID-UK is a collaboration of over 130 [members](https://www.hdruk.ac.uk/wp
 
 If you are interested in becoming a member of CVD-COVID-UK please email bhfdsc@hdruk.ac.uk
 
-## Data availability
+## Data sharing
 
 All code arising from this consortium’s work will be made publicly available via this github repository.
 
