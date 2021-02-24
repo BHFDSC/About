@@ -20,7 +20,7 @@ Additional information on the data available for each of our projects can be fou
 
 ## Publications
 
-* [Wood et al., 2021 Linking electronic health records for research on a nationwide cohort including over 54 million people in England]()
+* [Linking electronic health records for research on a nationwide cohort including over 54 million people in England (2021)](https://github.com/BHFDSC/Linked-EHR-England-2021)
 
 ## License
 
