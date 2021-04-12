@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[CVD-COVID-UK](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/), led by Professor Cathie Sudlow, Director of the British Heart Foundation (BHF) Data Science Centre, is one of the National Flagship Projects approved by the NIHR-BHF Cardiovascular Partnership.
+[CVD-COVID-UK](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/), led by Professor Cathie Sudlow, Director of the British Heart Foundation (BHF) Data Science Centre, is one of the [National Flagship Projects](https://www.bhf.org.uk/for-professionals/information-for-researchers/covid-19-and-cardiovascular-health) approved by the NIHR-BHF Cardiovascular Partnership.
 
 It aims to understand the relationship between COVID-19 and cardiovascular diseases such as heart attack, heart failure, stroke, and blood clots in the lungs through analyses of de-identified, pseudonymised, linked, nationally collated healthcare datasets across the four nations of the UK.
 
@@ -12,7 +12,13 @@ If you are interested in becoming a member of CVD-COVID-UK please email bhfdsc@h
 
 ## Data sharing
 
-All analysis plans, protocols, code, code lists and reports arising from this consortium's work will be made publicly available via this GitHub organisation, the [CVD-COVID-UK webpage](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/) and/or the [HDR UK Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
+All analysis plans, protocols, code, code lists and reports arising from this consortium's work will be made publicly available via this [GitHub organisation](https://github.com/BHFDSC/), the [CVD-COVID-UK webpage](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/) and/or the [Health Data Research Innovation Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
+
+## Innovation Gateway
+
+* [CVD-COVID-UK collection](https://web.www.healthdatagateway.org/collection/3975719127757711)
+
+* [TRE dataset and access](https://web.www.healthdatagateway.org/dataset/7e5f0247-f033-4f98-aed3-3d7422b9dc6d)
 
 ## Publications
 
