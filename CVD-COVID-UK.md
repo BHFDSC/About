@@ -6,13 +6,13 @@
 
 It aims to understand the relationship between COVID-19 and cardiovascular diseases such as heart attack, heart failure, stroke, and blood clots in the lungs through analyses of de-identified, pseudonymised, linked, nationally collated healthcare datasets across the four nations of the UK.
 
-CVD-COVID-UK is a collaboration of over 200 [members](https://www.hdruk.ac.uk/wp-content/uploads/2021/08/210803-CVD-COVID-UK-Consortium-Members.pdf) across more than 40 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of [principles](https://www.hdruk.ac.uk/wp-content/uploads/2020/07/CVD-COVID-UK-principles-for-website.pdf) with an inclusive, open and transparent ethos.
+CVD-COVID-UK is a collaboration of over 250 [members](https://www.hdruk.ac.uk/wp-content/uploads/2022/02/220202-CVD-COVID-UK-COVID-IMPACT-Consortium-Members-1.pdf) across more than 50 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of [principles](https://www.hdruk.ac.uk/wp-content/uploads/2020/07/CVD-COVID-UK-principles-for-website.pdf) with an inclusive, open and transparent ethos.
 
 If you are interested in becoming a member of CVD-COVID-UK please email bhfdsc@hdruk.ac.uk
 
 ## Data sharing
 
-All analysis plans, protocols, code, code lists and reports arising from this consortium's work will be made publicly available via this [GitHub organisation](https://github.com/BHFDSC/), the [CVD-COVID-UK webpage](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/) and/or the [Health Data Research Innovation Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
+All analysis plans, protocols, code, code lists and reports arising from this consortium's work will be made publicly available via this [GitHub organisation](https://github.com/BHFDSC/), the [CVD-COVID-UK webpage](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/) and/or the [Health Data Research Innovation Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open-access publications.
 
 ## Innovation Gateway
 
