@@ -8,17 +8,18 @@ We work with a wide range of partners including patients, public, clinicians, re
 
 ## Data sharing
 
-All analysis plans, protocols, code, code lists and reports will be made publicly available via this GitHub organisation, our [website](https://www.hdruk.ac.uk/helping-with-health-data/bhf-data-science-centre/) and/or the [Health Data Research Innovation Gateway](https://www.healthdatagateway.org/) (linking to additional institutional documentation if appropriate), and through open access publications.
+All analysis plans, protocols, code, code lists and reports will be made publicly available in repositories in this GitHub organisation, our [website](https://www.hdruk.ac.uk/helping-with-health-data/bhf-data-science-centre/), our [collection](https://web.www.healthdatagateway.org/collection/3975719127757711) on the Health Data Research Innovation Gateway and through open-access publications.
 
 Additional information on the data available for each of our projects can be found below.
 
 ## Projects
 
-* [CVD-COVID-UK](https://github.com/BHFDSC/Documentation/blob/main/CVD-COVID-UK.md)
+* [CVD-COVID-UK / COVID-IMPACT](https://github.com/BHFDSC/Documentation/blob/main/CVD-COVID-UK.md)
 
 ## Publications
 
 * [Linking electronic health records for research on a nationwide cohort including over 54 million people in England (2021)](https://github.com/BHFDSC/Linked-EHR-England-2021)
+* [Association of COVID-19 vaccines ChAdOx1 and BNT162b2 with major venous, arterial, or thrombocytopenic events: A population-based cohort study of 46 million adults in England (2022)](https://github.com/BHFDSC/CCU002_02)
 
 ## License
 
