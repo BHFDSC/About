@@ -20,6 +20,7 @@ Additional information on the data available for each of our projects can be fou
 
 * [Linking electronic health records for research on a nationwide cohort including over 54 million people in England (2021)](https://github.com/BHFDSC/Linked-EHR-England-2021)
 * [Association of COVID-19 vaccines ChAdOx1 and BNT162b2 with major venous, arterial, or thrombocytopenic events: A population-based cohort study of 46 million adults in England (2022)](https://github.com/BHFDSC/CCU002_02)
+* [Evaluation of antithrombotic use and COVID-19 outcomes in a nationwide atrial fibrillation cohort (2022)](https://github.com/BHFDSC/CCU020)
 
 ## License
 
