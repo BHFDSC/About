@@ -6,7 +6,7 @@
 
 It aims to understand the relationship between COVID-19 and cardiovascular diseases such as heart attack, heart failure, stroke, and blood clots in the lungs through analyses of de-identified, pseudonymised, linked, nationally collated healthcare datasets across the four nations of the UK.
 
-CVD-COVID-UK is a collaboration of over 270 [members](https://www.hdruk.ac.uk/wp-content/uploads/2022/03/220303-CVD-COVID-UK-COVID-IMPACT-Consortium-Members.pdf) across more than 50 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of [principles](https://www.hdruk.ac.uk/wp-content/uploads/2020/07/CVD-COVID-UK-principles-for-website.pdf) with an inclusive, open and transparent ethos.
+CVD-COVID-UK is a collaboration of over 300 [members](https://www.hdruk.ac.uk/wp-content/uploads/2022/05/220523-CVD-COVID-UK-COVID-IMPACT-Consortium-Members.pdf) across more than 50 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of [principles](https://www.hdruk.ac.uk/wp-content/uploads/2022/05/CVD-COVID-UK-COVID-IMPACT-principles-v3.0.pdf) with an inclusive, open and transparent ethos.
 
 Approved researchers access data within secure trusted research environments (TREs) provided by NHS Digital in England, the National Data Safe Haven in Scotland, the SAIL Databank in Wales and the Honest Broker Service in Northern Ireland.
 
@@ -30,9 +30,10 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
-* [Linking electronic health records for research on a nationwide cohort including over 54 million people in England (2021)](https://github.com/BHFDSC/Linked-EHR-England-2021)
-* [Association of COVID-19 vaccines ChAdOx1 and BNT162b2 with major venous, arterial, or thrombocytopenic events: A population-based cohort study of 46 million adults in England (2022)](https://github.com/BHFDSC/CCU002_02)
+* [COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records (2022)](https://github.com/BHFDSC/CCU013_01_ENG-COVID-19_event_phenotyping)
 * [Evaluation of antithrombotic use and COVID-19 outcomes in a nationwide atrial fibrillation cohort (2022)](https://github.com/BHFDSC/CCU020)
+* [Association of COVID-19 vaccines ChAdOx1 and BNT162b2 with major venous, arterial, or thrombocytopenic events: A population-based cohort study of 46 million adults in England (2022)](https://github.com/BHFDSC/CCU002_02)
+* [Linking electronic health records for research on a nationwide cohort including over 54 million people in England (2021)](https://github.com/BHFDSC/Linked-EHR-England-2021)
 
 ## License
 
