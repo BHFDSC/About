@@ -30,6 +30,7 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [A retrospective cohort study measured predicting and validating the impact of the COVID-19 pandemic in individuals with chronic kidney disease (2022)](https://github.com/BHFDSC/CCU003_01)
 * [COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records (2022)](https://github.com/BHFDSC/CCU013_01_ENG-COVID-19_event_phenotyping)
 * [Evaluation of antithrombotic use and COVID-19 outcomes in a nationwide atrial fibrillation cohort (2022)](https://github.com/BHFDSC/CCU020)
 * [Association of COVID-19 vaccines ChAdOx1 and BNT162b2 with major venous, arterial, or thrombocytopenic events: A population-based cohort study of 46 million adults in England (2022)](https://github.com/BHFDSC/CCU002_02)
