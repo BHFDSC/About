@@ -6,7 +6,7 @@
 
 It aims to understand the relationship between COVID-19 and cardiovascular diseases such as heart attack, heart failure, stroke, and blood clots in the lungs through analyses of de-identified, pseudonymised, linked, nationally collated healthcare datasets across the four nations of the UK.
 
-CVD-COVID-UK is a collaboration of over 300 [members](https://www.hdruk.ac.uk/wp-content/uploads/2022/05/220523-CVD-COVID-UK-COVID-IMPACT-Consortium-Members.pdf) across more than 50 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of [principles](https://www.hdruk.ac.uk/wp-content/uploads/2022/05/CVD-COVID-UK-COVID-IMPACT-principles-v3.0.pdf) with an inclusive, open and transparent ethos.
+CVD-COVID-UK is a collaboration of over 330 [members](https://www.hdruk.ac.uk/wp-content/uploads/2022/05/220523-CVD-COVID-UK-COVID-IMPACT-Consortium-Members.pdf) across more than 50 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of [principles](https://www.hdruk.ac.uk/wp-content/uploads/2022/05/CVD-COVID-UK-COVID-IMPACT-principles-v3.0.pdf) with an inclusive, open and transparent ethos.
 
 Approved researchers access data within secure trusted research environments (TREs) provided by NHS Digital in England, the National Data Safe Haven in Scotland, the SAIL Databank in Wales and the Honest Broker Service in Northern Ireland.
 
@@ -30,6 +30,7 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [Using national electronic health records for pandemic preparedness: validation of a parsimonious model for predicting excess deaths among those with COVID-19 – a data-driven retrospective cohort study (2022)](https://github.com/BHFDSC/CCU003_03)
 * [Association of COVID-19 with major arterial and venous thrombotic diseases: a population-wide cohort study of 48 million adults in England and Wales (2022)](https://github.com/BHFDSC/CCU002_01)
 * [A retrospective cohort study measured predicting and validating the impact of the COVID-19 pandemic in individuals with chronic kidney disease (2022)](https://github.com/BHFDSC/CCU003_01)
 * [COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records (2022)](https://github.com/BHFDSC/CCU013_01_ENG-COVID-19_event_phenotyping)
