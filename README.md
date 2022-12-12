@@ -18,6 +18,8 @@ Additional information on the data available for each of our projects can be fou
 
 ## Publications
 
+* [Better End of Life 2022. Mind the gaps: understanding and improving out-of-hours care for people with advanced illness and their informal carers. Research report. (2022)](https://github.com/BHFDSC/CCU024_01)
+* [Effects of the COVID-19 pandemic on secondary care for cardiovascular disease in the UK: an electronic health record analysis across three countries (2022)](https://github.com/BHFDSC/CCU003_04)
 * [Using national electronic health records for pandemic preparedness: validation of a parsimonious model for predicting excess deaths among those with COVID-19 – a data-driven retrospective cohort study (2022)](https://github.com/BHFDSC/CCU003_03)
 * [Association of COVID-19 with major arterial and venous thrombotic diseases: a population-wide cohort study of 48 million adults in England and Wales (2022)](https://github.com/BHFDSC/CCU002_01)
 * [A retrospective cohort study measured predicting and validating the impact of the COVID-19 pandemic in individuals with chronic kidney disease (2022)](https://github.com/BHFDSC/CCU003_01)
