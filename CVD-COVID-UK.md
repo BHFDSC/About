@@ -6,15 +6,15 @@
 
 It aims to understand the relationship between COVID-19 and cardiovascular diseases such as heart attack, heart failure, stroke, and blood clots in the lungs through analyses of de-identified, pseudonymised, linked, nationally collated healthcare datasets across the four nations of the UK.
 
-CVD-COVID-UK is a collaboration of over 350 [members](https://www.hdruk.ac.uk/wp-content/uploads/2023/01/230110-CVD-COVID-UK-COVID-IMPACT-Consortium-Members.pdf) across more than 50 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of [principles](https://www.hdruk.ac.uk/wp-content/uploads/2022/05/CVD-COVID-UK-COVID-IMPACT-principles-v3.0.pdf) with an inclusive, open and transparent ethos.
+CVD-COVID-UK is a collaboration of over 360 [members](https://www.hdruk.ac.uk/wp-content/uploads/2023/07/040723-CVD-COVID-UK-COVID-IMPACT-Consortium-Members.pdf) across more than 50 institutions including data custodians, data scientists with methodological and analytical expertise and clinicians, all of whom have signed up to an agreed set of [principles](https://www.hdruk.ac.uk/wp-content/uploads/2022/05/CVD-COVID-UK-COVID-IMPACT-principles-v3.0.pdf) with an inclusive, open and transparent ethos.
 
-Approved researchers access data within secure trusted research environments (TREs) provided by NHS Digital in England, the National Data Safe Haven in Scotland, the SAIL Databank in Wales and the Honest Broker Service in Northern Ireland.
+Approved researchers access data within secure trusted research environments (TREs)/secure data environments (SDEs) provided by NHS England in England, the National Data Safe Haven in Scotland, the SAIL Databank in Wales and the Honest Broker Service in Northern Ireland.
 
 Linkable datasets include those from primary and secondary care, COVID lab tests and vaccinations, deaths, critical care, prescribing/dispensing, cardiovascular, stroke and vascular surgical audits, maternity services and mental health.
 
 **Expansion to COVID-IMPACT**
 
-Building on the success of CVD-COVID-UK, the BHF Data Science Centre has now gained ethical and regulatory approval to broaden the scope of the programme to all COVID-related research (in NHS Digital’s TRE for England only).  This is known as COVID-IMPACT and it will help to support research projects from the wider community, including for the National Core Studies.
+Building on the success of CVD-COVID-UK, the BHF Data Science Centre has now gained ethical and regulatory approval to broaden the scope of the programme to all COVID-related research (in NHS Englands’s SDE for England only).  This is known as COVID-IMPACT and it helps to support research projects from the wider community.
 
 If you are interested in becoming a member of CVD-COVID-UK / COVID-IMPACT Consortium, please email bhfdsc@hdruk.ac.uk
 
@@ -30,6 +30,7 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [Hospital admissions linked to SARS-CoV-2 infection in children and adolescents: cohort study of 3.2 million first ascertained infections in England (2023)](https://github.com/BHFDSC/CCU029_01)
 * [The impact of the COVID-19 pandemic on cardiovascular disease prevention and management (2023)](https://github.com/BHFDSC/CCU014_01)
 * [Harmonising electronic health records for reproducible research: challenges, solutions and recommendations from a UK-wide COVID-19 research collaboration (2023)](https://github.com/BHFDSC/CCU005_03)
 * [Better End of Life 2022. Mind the gaps: understanding and improving out-of-hours care for people with advanced illness and their informal carers. Research report. (2022)](https://github.com/BHFDSC/CCU024_01)
