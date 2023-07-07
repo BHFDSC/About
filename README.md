@@ -18,6 +18,7 @@ Additional information on the data available for each of our projects can be fou
 
 ## Publications
 
+* [Hospital admissions linked to SARS-CoV-2 infection in children and adolescents: cohort study of 3.2 million first ascertained infections in England (2023)](https://github.com/BHFDSC/CCU029_01)
 * [The impact of the COVID-19 pandemic on cardiovascular disease prevention and management (2023)](https://github.com/BHFDSC/CCU014_01)
 * [Harmonising electronic health records for reproducible research: challenges, solutions and recommendations from a UK-wide COVID-19 research collaboration (2023)](https://github.com/BHFDSC/CCU005_03)
 * [Better End of Life 2022. Mind the gaps: understanding and improving out-of-hours care for people with advanced illness and their informal carers. Research report. (2022)](https://github.com/BHFDSC/CCU024_01)
