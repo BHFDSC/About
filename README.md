@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The [BHF Data Science Centre](https://www.hdruk.ac.uk/helping-with-health-data/bhf-data-science-centre/) is a partnership between [Health Data Research UK](https://www.hdruk.ac.uk/) (HDR UK) and the British Heart Foundation (BHF), and sits within HDR UK.
+The [BHF Data Science Centre](https://bhfdatasciencecentre.org/) is a partnership between [Health Data Research UK](https://www.hdruk.ac.uk/) (HDR UK) and the British Heart Foundation (BHF), and sits within HDR UK.
 
 We work with a wide range of partners including patients, public, clinicians, researchers and NHS organisations to help them carry out research using health data into the causes, prevention and treatment of all diseases of the heart and circulation (such heart attacks, stroke and vascular dementia). We do this to ensure new advances in treatment and care for diseases of the heart and circulation get to the patient as quickly as possible.
 
 ## Data sharing
 
-All analysis plans, protocols, code, code lists and reports will be made publicly available in repositories in this GitHub organisation, our [website](https://www.hdruk.ac.uk/helping-with-health-data/bhf-data-science-centre/), our [collection](https://web.www.healthdatagateway.org/collection/3975719127757711) on the Health Data Research Innovation Gateway and through open-access publications.
+All analysis plans, protocols, code, code lists and reports will be made publicly available in repositories in this GitHub organisation, our [website](https://bhfdatasciencecentre.org/), our [collection](https://web.www.healthdatagateway.org/collection/3975719127757711) on the Health Data Research Innovation Gateway and through open-access publications.
 
 Additional information on the data available for each of our projects can be found below.
 
@@ -18,6 +18,7 @@ Additional information on the data available for each of our projects can be fou
 
 ## Publications
 
+* [Antipsychotic drug prescribing and mortality in people with dementia before and during the COVID-19 pandemic: a retrospective cohort study in Wales, UK](https://github.com/BHFDSC/CCU016_01)
 * [Hospital admissions linked to SARS-CoV-2 infection in children and adolescents: cohort study of 3.2 million first ascertained infections in England (2023)](https://github.com/BHFDSC/CCU029_01)
 * [The impact of the COVID-19 pandemic on cardiovascular disease prevention and management (2023)](https://github.com/BHFDSC/CCU014_01)
 * [Harmonising electronic health records for reproducible research: challenges, solutions and recommendations from a UK-wide COVID-19 research collaboration (2023)](https://github.com/BHFDSC/CCU005_03)
