@@ -18,7 +18,9 @@ Additional information on the data available for each of our projects can be fou
 
 ## Publications
 
-* [Antipsychotic drug prescribing and mortality in people with dementia before and during the COVID-19 pandemic: a retrospective cohort study in Wales, UK](https://github.com/BHFDSC/CCU016_01)
+* [Sars-Cov-2 Infection in People with Type 1 Diabetes and Hospital Admission: An Analysis of Risk Factors for England (2023)](https://github.com/BHFDSC/CCU040_01)
+* [Understanding covid-19 outcomes among people with intellectual disabilities in England (2023)](https://github.com/BHFDSC/CCU030_01)
+* [Antipsychotic drug prescribing and mortality in people with dementia before and during the COVID-19 pandemic: a retrospective cohort study in Wales, UK (2023)](https://github.com/BHFDSC/CCU016_01)
 * [Hospital admissions linked to SARS-CoV-2 infection in children and adolescents: cohort study of 3.2 million first ascertained infections in England (2023)](https://github.com/BHFDSC/CCU029_01)
 * [The impact of the COVID-19 pandemic on cardiovascular disease prevention and management (2023)](https://github.com/BHFDSC/CCU014_01)
 * [Harmonising electronic health records for reproducible research: challenges, solutions and recommendations from a UK-wide COVID-19 research collaboration (2023)](https://github.com/BHFDSC/CCU005_03)
