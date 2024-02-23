@@ -30,6 +30,7 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [Ethnicity data resource in population-wide health records: completeness, coverage and granularity of diversity (2024)](https://github.com/BHFDSC/CCU037_01)
 * [Undervaccination and severe COVID-19 outcomes: meta-analysis of national cohort studies in England, Northern Ireland, Scotland, and Wales (2024)](https://github.com/BHFDSC/CCU051_01)
 * [Understanding covid-19 outcomes among people with intellectual disabilities in England (2023)](https://github.com/BHFDSC/CCU030_01)
 * [Sars-Cov-2 Infection in People with Type 1 Diabetes and Hospital Admission: An Analysis of Risk Factors for England (2023)](https://github.com/BHFDSC/CCU040_01)
