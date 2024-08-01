@@ -14,7 +14,7 @@ Additional information on the data available for each of our projects can be fou
 
 ## Projects
 
-* [CVD-COVID-UK / COVID-IMPACT](https://github.com/BHFDSC/Documentation/blob/main/CVD-COVID-UK.md)
+* [CVD-COVID-UK / COVID-IMPACT](https://github.com/BHFDSC/About/blob/main/CVD-COVID-UK.md)
 
 ## Publications
 
