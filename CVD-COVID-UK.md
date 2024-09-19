@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[CVD-COVID-UK](https://bhfdatasciencecentre.org/areas/cvd-covid-uk-covid-impact/), led by Professor Cathie Sudlow, Director of the British Heart Foundation (BHF) Data Science Centre, is one of the [National Flagship Projects](https://www.bhf.org.uk/for-professionals/information-for-researchers/covid-19-and-cardiovascular-health) approved by the NIHR-BHF Cardiovascular Partnership.
+[CVD-COVID-UK](https://bhfdatasciencecentre.org/areas/cvd-covid-uk-covid-impact/), led by Professor Angela Wood, Associate Director of the British Heart Foundation (BHF) Data Science Centre, is one of the [National Flagship Projects](https://www.bhf.org.uk/for-professionals/information-for-researchers/covid-19-and-cardiovascular-health) approved by the NIHR-BHF Cardiovascular Partnership.
 
 It aims to understand the relationship between COVID-19 and cardiovascular diseases such as heart attack, heart failure, stroke, and blood clots in the lungs through analyses of de-identified, pseudonymised, linked, nationally collated healthcare datasets across the four nations of the UK.
 
