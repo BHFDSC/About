@@ -31,8 +31,10 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 ## Publications
 
 * [COVID-19 diagnosis, vaccination during pregnancy, and adverse pregnancy outcomes of 865,654 women in England and Wales: a population-based cohort study (2024)](https://github.com/BHFDSC/CCU018_01)
+* [COVID-19 vaccination and birth outcomes of 186,990 women vaccinated before pregnancy: an England-wide cohort study (2024)](https://github.com/BHFDSC/CCU036_01)
 * [Cohort study of cardiovascular safety of different COVID-19 vaccination doses among 46 million adults in England (2024)](https://github.com/BHFDSC/CCU002_06)
 * [Vaccinations, cardiovascular drugs, hospitalisation and mortality in COVID-19 and Long COVID (2024)](https://github.com/BHFDSC/CCU060_01)
+* [Risk of cardiovascular events following COVID-19 in people with and without pre-existing chronic respiratory disease (2024)](https://github.com/BHFDSC/CCU035_01)
 * [A nationwide, population-based study on specialized care for acute heart failure throughout the COVID-19 pandemic (2024)](https://github.com/BHFDSC/CCU045_01)
 * [Ethnicity data resource in population-wide health records: completeness, coverage and granularity of diversity (2024)](https://github.com/BHFDSC/CCU037_01)
 * [Undervaccination and severe COVID-19 outcomes: meta-analysis of national cohort studies in England, Northern Ireland, Scotland, and Wales (2024)](https://github.com/BHFDSC/CCU051_01)
