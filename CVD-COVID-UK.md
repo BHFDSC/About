@@ -30,6 +30,7 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [The impact of COVID-19 vaccination on patients with congenital heart disease in England: a case-control study](https://github.com/BHFDSC/CCU068_01)
 * [COVID-19 diagnosis, vaccination during pregnancy, and adverse pregnancy outcomes of 865,654 women in England and Wales: a population-based cohort study (2024)](https://github.com/BHFDSC/CCU018_01)
 * [COVID-19 vaccination and birth outcomes of 186,990 women vaccinated before pregnancy: an England-wide cohort study (2024)](https://github.com/BHFDSC/CCU036_01)
 * [Cohort study of cardiovascular safety of different COVID-19 vaccination doses among 46 million adults in England (2024)](https://github.com/BHFDSC/CCU002_06)
