@@ -30,6 +30,8 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [Combinations of multiple long term conditions and risk of hospital admission or death during winter 2021-22 in England: population based cohort study (2024)](https://github.com/BHFDSC/CCU059_01)
+* [Association between ethnicity and emergency department visits in the last three months of life in England: a retrospective population-based study using electronic health records (2024)](https://github.com/BHFDSC/CCU024_02)
 * [Trends in pediatric hospital admissions caused or contributed by SARS-CoV-2 infection in England (2024)](https://github.com/BHFDSC/CCU029_02)
 * [The impact of COVID-19 vaccination on patients with congenital heart disease in England: a case-control study (2024)](https://github.com/BHFDSC/CCU068_01)
 * [COVID-19 diagnosis, vaccination during pregnancy, and adverse pregnancy outcomes of 865,654 women in England and Wales: a population-based cohort study (2024)](https://github.com/BHFDSC/CCU018_01)
