@@ -18,6 +18,7 @@ Additional information on the data available for each of our projects can be fou
 
 ## Publications
 
+* [Routine measurement of cardiometabolic disease risk factors in primary care in England before, during, and after the COVID-19 pandemic: A population based cohort study (2024)](https://github.com/BHFDSC/CCU008_01)
 * [Combinations of multiple long term conditions and risk of hospital admission or death during winter 2021-22 in England: population based cohort study (2024)](https://github.com/BHFDSC/CCU059_01)
 * [Association between ethnicity and emergency department visits in the last three months of life in England: a retrospective population-based study using electronic health records (2024)](https://github.com/BHFDSC/CCU024_02)
 * [Trends in pediatric hospital admissions caused or contributed by SARS-CoV-2 infection in England (2024)](https://github.com/BHFDSC/CCU029_02)
