@@ -30,10 +30,13 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [Use of sodium valproate and other antiseizure drug treatments in England and Wales: quantitative analysis of nationwide linked electronic health records (2024)](https://github.com/BHFDSC/CCU014_03)
 * [Healthcare utilisation of 282,080 individuals with long COVID over two years: a multiple matched control, longitudinal cohort analysis (2024)](https://github.com/BHFDSC/CCU049_01)
+* [Surgical and transcatheter aortic valve interventions for aortic stenosis in England: sociodemographic variations in treatment trends and outcome over 20 years (2024)](https://github.com/BHFDSC/CCU056_01)
 * [Routine measurement of cardiometabolic disease risk factors in primary care in England before, during, and after the COVID-19 pandemic: A population based cohort study (2024)](https://github.com/BHFDSC/CCU008_01)
 * [Risks of major arterial and venous thrombotic diseases after hospitalisation for influenza, pneumonia, and COVID-19: A population-wide cohort in 2.6 million people in Wales (2024)](https://github.com/BHFDSC/CCU002_04)
 * [Combinations of multiple long term conditions and risk of hospital admission or death during winter 2021-22 in England: population based cohort study (2024)](https://github.com/BHFDSC/CCU059_01)
+* [Contemporary epidemiology of hospitalised heart failure with reduced versus preserved ejection fraction in England: a retrospective, cohort study of whole-population electronic health records (2024)](https://github.com/BHFDSC/CCU045_02)
 * [Association between ethnicity and emergency department visits in the last three months of life in England: a retrospective population-based study using electronic health records (2024)](https://github.com/BHFDSC/CCU024_02)
 * [Trends in pediatric hospital admissions caused or contributed by SARS-CoV-2 infection in England (2024)](https://github.com/BHFDSC/CCU029_02)
 * [The impact of COVID-19 vaccination on patients with congenital heart disease in England: a case-control study (2024)](https://github.com/BHFDSC/CCU068_01)
