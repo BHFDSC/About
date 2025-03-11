@@ -30,6 +30,7 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [Peripandemic outcomes of infants treated for sentinel congenital heart diseases in England and Wales (2025)](https://github.com/BHFDSC/CCU007_03)
 * [Prevalence and demographics of 331 rare diseases and associated COVID-19-related mortality among 58 million individuals: a nationwide retrospective observational study (2025)](https://github.com/BHFDSC/CCU019_01)
 * [Use of sodium valproate and other antiseizure drug treatments in England and Wales: quantitative analysis of nationwide linked electronic health records (2024)](https://github.com/BHFDSC/CCU014_03)
 * [Healthcare utilisation of 282,080 individuals with long COVID over two years: a multiple matched control, longitudinal cohort analysis (2024)](https://github.com/BHFDSC/CCU049_01)
