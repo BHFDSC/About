@@ -18,6 +18,8 @@ Additional information on the data available for each of our projects can be fou
 
 ## Publications
 
+* [Incidence and prevalence of asthma, chronic obstructive pulmonary disease and interstitial lung disease between 2004 and 2023: harmonised analyses of longitudinal cohorts across England, Wales, South-East Scotland and Northern Ireland (2025)](https://github.com/BHFDSC/CCU052_01)
+* [Impact of COVID-19 pandemic on rates of congenital heart disease procedures among children: prospective cohort analyses of 26 270 procedures in 17 860 children using CVD-COVID-UK consortium record linkage data (2025)](https://github.com/BHFDSC/CCU007_01)
 * [Peripandemic outcomes of infants treated for sentinel congenital heart diseases in England and Wales (2025)](https://github.com/BHFDSC/CCU007_03)
 * [Hospital readmission after heart valve surgery in the United Kingdom (2025)](https://github.com/BHFDSC/CCU007_11)
 * [Prevalence and demographics of 331 rare diseases and associated COVID-19-related mortality among 58 million individuals: a nationwide retrospective observational study (2025)](https://github.com/BHFDSC/CCU019_01)
