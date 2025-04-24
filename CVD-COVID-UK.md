@@ -30,6 +30,7 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [Replicating a COVID-19 study in a national England database to assess the generalisability of research with regional electronic health record data (2025)](https://github.com/BHFDSC/CCU040_01)
 * [Incidence and prevalence of asthma, chronic obstructive pulmonary disease and interstitial lung disease between 2004 and 2023: harmonised analyses of longitudinal cohorts across England, Wales, South-East Scotland and Northern Ireland (2025)](https://github.com/BHFDSC/CCU052_01)
 * [Impact of COVID-19 pandemic on rates of congenital heart disease procedures among children: prospective cohort analyses of 26 270 procedures in 17 860 children using CVD-COVID-UK consortium record linkage data (2025)](https://github.com/BHFDSC/CCU007_01)
 * [Peripandemic outcomes of infants treated for sentinel congenital heart diseases in England and Wales (2025)](https://github.com/BHFDSC/CCU007_03)
