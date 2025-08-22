@@ -30,6 +30,7 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [The challenges of replication: a worked example of methods reproducibility using electronic health record data (2025)](https://github.com/BHFDSC/CCU040_01)
 * [Ethnic disparities in COVID-19 mortality and cardiovascular disease in England and Wales between 2020-2022 (2025)](https://github.com/BHFDSC/CCU037_02)
 * [A population-based cross-sectional investigation of COVID-19 hospitalizations and mortality among autistic people (2025)](https://github.com/BHFDSC/CCU030_02)
 * [Replicating a COVID-19 study in a national England database to assess the generalisability of research with regional electronic health record data (2025)](https://github.com/BHFDSC/CCU040_01)
