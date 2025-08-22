@@ -21,6 +21,7 @@ Additional information on the data available for each of our projects can be fou
 * [The challenges of replication: a worked example of methods reproducibility using electronic health record data (2025)](https://github.com/BHFDSC/CCU040_01)
 * [Ethnic disparities in COVID-19 mortality and cardiovascular disease in England and Wales between 2020-2022 (2025)](https://github.com/BHFDSC/CCU037_02)
 * [A population-based cross-sectional investigation of COVID-19 hospitalizations and mortality among autistic people (2025)](https://github.com/BHFDSC/CCU030_02)
+* [Making a case for an autism-specific multimorbidity index: a comparative cohort study (2025)](https://github.com/BHFDSC/CCU030_03)
 * [Replicating a COVID-19 study in a national England database to assess the generalisability of research with regional electronic health record data (2025)](https://github.com/BHFDSC/CCU040_01)
 * [Incidence and prevalence of asthma, chronic obstructive pulmonary disease and interstitial lung disease between 2004 and 2023: harmonised analyses of longitudinal cohorts across England, Wales, South-East Scotland and Northern Ireland (2025)](https://github.com/BHFDSC/CCU052_01)
 * [Impact of COVID-19 pandemic on rates of congenital heart disease procedures among children: prospective cohort analyses of 26 270 procedures in 17 860 children using CVD-COVID-UK consortium record linkage data (2025)](https://github.com/BHFDSC/CCU007_01)
