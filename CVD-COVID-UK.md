@@ -22,14 +22,13 @@ If you are interested in becoming a member of CVD-COVID-UK / COVID-IMPACT Consor
 
 All analysis plans, protocols, code, code lists and reports arising from the consortium's work will be made publicly available via this [GitHub organisation](https://github.com/BHFDSC/), the [CVD-COVID-UK / COVID-IMPACT webpage](https://bhfdatasciencecentre.org/areas/cvd-covid-uk-covid-impact/), the Health Data Research Innovation Gateway (see below) and through open-access publications.
 
-## Innovation Gateway
+## Health Data Research Gateway
 
-* [CVD-COVID-UK / COVID-IMPACT collection](https://web.www.healthdatagateway.org/collection/3975719127757711)
-
-* [TRE dataset and access](https://web.www.healthdatagateway.org/dataset/7e5f0247-f033-4f98-aed3-3d7422b9dc6d)
+* [CVD-COVID-UK / COVID-IMPACT collection](https://healthdatagateway.org/en/collection/10)
 
 ## Publications
 
+* [Impact of the COVID-19 pandemic on incidence of myocardial infarction, heart failure and stroke, by mental disorder diagnosis, in England, 2019–2023: a cohort study (2025)](https://github.com/BHFDSC/CCU046_03)
 * [The challenges of replication: a worked example of methods reproducibility using electronic health record data (2025)](https://github.com/BHFDSC/CCU040_01)
 * [Ethnic disparities in COVID-19 mortality and cardiovascular disease in England and Wales between 2020-2022 (2025)](https://github.com/BHFDSC/CCU037_02)
 * [A population-based cross-sectional investigation of COVID-19 hospitalizations and mortality among autistic people (2025)](https://github.com/BHFDSC/CCU030_02)
