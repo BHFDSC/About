@@ -8,7 +8,7 @@ We work with a wide range of partners including patients, public, clinicians, re
 
 ## Data sharing
 
-All analysis plans, protocols, code, code lists and reports will be made publicly available in repositories in this GitHub organisation, our [website](https://bhfdatasciencecentre.org/), our [collection](https://web.www.healthdatagateway.org/collection/3975719127757711) on the Health Data Research Innovation Gateway and through open-access publications.
+All analysis plans, protocols, code, code lists and reports will be made publicly available in repositories in this GitHub organisation, our [website](https://bhfdatasciencecentre.org/), our [collection](https://healthdatagateway.org/en/collection/10) on the Health Data Research Innovation Gateway and through open-access publications.
 
 Additional information on the data available for each of our projects can be found below.
 
@@ -18,6 +18,7 @@ Additional information on the data available for each of our projects can be fou
 
 ## Publications
 
+* [Impact of the COVID-19 pandemic on incidence of myocardial infarction, heart failure and stroke, by mental disorder diagnosis, in England, 2019–2023: a cohort study (2025)](https://github.com/BHFDSC/CCU046_03)
 * [The challenges of replication: a worked example of methods reproducibility using electronic health record data (2025)](https://github.com/BHFDSC/CCU040_01)
 * [Ethnic disparities in COVID-19 mortality and cardiovascular disease in England and Wales between 2020-2022 (2025)](https://github.com/BHFDSC/CCU037_02)
 * [A population-based cross-sectional investigation of COVID-19 hospitalizations and mortality among autistic people (2025)](https://github.com/BHFDSC/CCU030_02)
