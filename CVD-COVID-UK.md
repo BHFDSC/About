@@ -28,6 +28,7 @@ All analysis plans, protocols, code, code lists and reports arising from the con
 
 ## Publications
 
+* [Burden of cardiovascular diseases in England (2020–24): a national cohort using electronic health records data (2025)](https://github.com/BHFDSC/CCU072_01)
 * [Impact of the COVID-19 pandemic on incidence of myocardial infarction, heart failure and stroke, by mental disorder diagnosis, in England, 2019–2023: a cohort study (2025)](https://github.com/BHFDSC/CCU046_03)
 * [The challenges of replication: a worked example of methods reproducibility using electronic health record data (2025)](https://github.com/BHFDSC/CCU040_01)
 * [Ethnic disparities in COVID-19 mortality and cardiovascular disease in England and Wales between 2020-2022 (2025)](https://github.com/BHFDSC/CCU037_02)
