@@ -18,6 +18,7 @@ Additional information on the data available for each of our projects can be fou
 
 ## Publications
 
+* [Vascular and inflammatory diseases after COVID-19 infection and vaccination in children and young people in England: a retrospective, population-based cohort study using linked electronic health records (2025)](https://github.com/BHFDSC/CCU002_07)
 * [Burden of cardiovascular diseases in England (2020–24): a national cohort using electronic health records data (2025)](https://github.com/BHFDSC/CCU072_01)
 * [Impact of the COVID-19 pandemic on incidence of myocardial infarction, heart failure and stroke, by mental disorder diagnosis, in England, 2019–2023: a cohort study (2025)](https://github.com/BHFDSC/CCU046_03)
 * [The challenges of replication: a worked example of methods reproducibility using electronic health record data (2025)](https://github.com/BHFDSC/CCU040_01)
